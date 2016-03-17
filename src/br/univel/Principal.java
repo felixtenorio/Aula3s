@@ -14,6 +14,8 @@ public class Principal {
 		new Message().hello();
 		System.out.println("Olá Mundo!");
 		System.out.println("Teste...");
+		
+		System.out.println("Alteração agora!...");
 	}
 	
 }
